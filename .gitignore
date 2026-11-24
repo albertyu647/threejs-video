@@ -1,0 +1,8 @@
+node_modules/
+out/
+frames/
+*.mov
+.env*
+*.pdf
+.DS_Store
+__pycache__/
